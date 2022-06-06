@@ -13,7 +13,6 @@ Currently, there are **two** supported ways to create your own GitHub Actions:
 
 As you can see we aren't necessarily limited to JavaScript even though it is the focal point for this course.
 
----
 
 ### Creating vs consuming actions
 
